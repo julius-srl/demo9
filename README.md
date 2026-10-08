@@ -1,2 +1,3 @@
-# demo9
-Ninth demo data product, dev only
+# Data product
+
+Created by `mock-repo-provisioning`. Do not edit the factory-owned files by hand without telling the factory team.
